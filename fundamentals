@@ -1,0 +1,170 @@
+# Fundamentals: Conflict as Graduated Regulation
+
+HBD Core is a diagnostic framework for understanding how people behave in conflict under stress.
+
+This document establishes the **fundamentals**: how to interpret conflict behavior without moralizing it, how to avoid weaponization, and how to intervene earlier rather than later.
+
+The framework is architectural, not judgmental.
+
+---
+
+## The Governing Idea
+
+In many high-stakes human systems, effective response under pressure follows a principle of **graduated regulation**:
+
+- regulate early
+- respond proportionally
+- account for context
+- prioritize restoration and repair
+
+HBD applies this principle to relational conflict.
+
+> The goal is not to eliminate reaction.  
+> The goal is to regulate sooner and repair faster.
+
+---
+
+## What Is Ordered (and What Is Not)
+
+### The cascade is ordered
+
+Conflict typically unfolds through a predictable physiological and cognitive cascade:
+
+Stimulus
+→ Amygdala flood event
+→ Hormonal cascade
+→ DCP activation
+→ Internal monologue
+→ Speech
+→ Behavior
+→ Habit
+
+
+By the time speech occurs, much of the system is already activated.
+
+Earlier stages are quieter but more powerful intervention points.
+
+---
+
+### DCP deployment is *not* ordered
+
+The Destructive Conflict Patterns (Withdraw, Escalate, Negative Interpret, Invalidate) are **not a sequence**.
+
+People do not reliably move through them in a fixed order.
+
+Instead, DCP behavior reflects **state-dependent routing**:
+- the nervous system selects familiar tools
+- based on perceived threat
+- shaped by history, habit, and the relational pairing
+
+Some individuals have a **default pattern** they deploy immediately under stress:
+- a withdrawer may disengage at the first hint of threat
+- an invalidator may erase emotional reality using logic or correction
+- a negative interpreter may assign hostile meaning before any outward action
+
+This is capacity deployment, not character.
+
+---
+
+## The DCP Domains (WENI)
+
+HBD describes four stress-response capacities:
+
+- **Withdraw (W):** disengage, create distance, reduce stimulation  
+- **Escalate (E):** pursue, intensify, advocate, increase signal  
+- **Negative Interpret (N):** assign intent, read meaning, detect threat  
+- **Invalidate (I):** dismiss, correct, erase lived experience  
+
+Each capacity can be used constructively or destructively depending on:
+- timing
+- intensity
+- context
+- pairing
+
+---
+
+## A Continuum for Training (Metaphor, Not Sequence)
+
+The continuum below is a **training metaphor**, not a behavioral ladder.
+
+It helps answer a practical question:
+
+> *Could regulation have happened earlier or with less force?*
+
+1. **Regulated Presence**  
+   Body calm, slower tempo, grounded attention
+
+2. **Verbal Clarity**  
+   Simple language, curiosity, staying in your circle
+
+3. **Boundary Moves**  
+   Pauses, timeouts, topic containment, space requests
+
+4. **Force Multipliers**  
+   Rapid Negative Interpret or Invalidate, coercive tone, pressure tactics
+
+5. **Relational Damage**  
+   Contempt, humiliation, threats, abandonment, retaliation
+
+HBD always prefers movement **downward and earlier** on the continuum.
+
+Early regulation prevents later rupture.
+
+---
+
+## Seeks: Why the System Activates
+
+Seeks describe what the nervous system is attempting to restore under threat:
+
+- **Justice**
+- **Status**
+- **Threat (Safety)**
+- **Order**
+- **Worth**
+
+Seeks explain *why* a DCP activates, not whether it is right or wrong.
+
+---
+
+## The Seek → Give Principle
+
+A formation principle that applies across many systems:
+
+> What you are seeking is often what you must learn to give first.
+
+Giving does not mean agreeing.
+Giving means restoring enough safety, dignity, or clarity for regulation to return.
+
+---
+
+## Collision Topology
+
+Conflict is often driven by **pairings**, not individuals.
+
+The same person may appear regulated in one relationship and destabilized in another.
+
+Common collision patterns include:
+- Escalate × Withdraw loops
+- Invalidate × Negative Interpret loops
+- Quiet dual-withdraw systems that erode slowly
+
+See `/examples` for real-world dyad illustrations.
+
+---
+
+## Guardrails
+
+- HBD is a diagnostic framework, not a control system
+- Do not use it to label, shame, or leverage others
+- Scores describe stress capacity, not identity
+- Ethical constraints are binding (`ETHICS.md`)
+
+---
+
+## Where to Start
+
+1. Read `ETHICS.md`
+2. Review one example in `/examples`
+3. Then explore the domains (DCP, Seeks)
+
+That is sufficient to begin using the framework responsibly.
