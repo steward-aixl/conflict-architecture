@@ -1,0 +1,144 @@
+# Commercial Licensing & Partnerships
+
+## Harmony By Design — HBD-Core
+
+HBD-Core is published openly to enable research, education, and ethical exploration of human behavior under stress.
+
+Commercial, enterprise, and institutional uses require a **separate commercial license**.
+
+This document explains when a license is required, what licensing enables, and how to engage.
+
+---
+
+## When a Commercial License Is Required
+
+A commercial license is required for **any use primarily intended for or directed toward organizational, professional, or revenue-generating purposes**, including but not limited to:
+
+### 1. Product & SaaS Integration
+- Software products incorporating HBD-Core concepts, schemas, or logic
+- AI systems that operationalize DCPs, Seeks, or collision topology
+- Assessment platforms, dashboards, or automation layers
+
+### 2. Professional Practice
+- For-profit therapy, counseling, coaching, or consulting
+- Organizational development or leadership training
+- Mediation, facilitation, or advisory services offered for fee
+
+### 3. Enterprise or Organizational Deployment
+- Internal use within companies, non-profits, or institutions
+- HR, management, or team-dynamics applications
+- Internal tooling used by multiple employees or departments
+
+### 4. Government or Institutional Use
+- Government agencies at any level
+- Military or defense-related applications
+- Intelligence, security, or law-enforcement contexts
+- Public-sector policy or program design
+
+### 5. Redistribution or White-Labeling
+- Bundling HBD-Core with paid offerings
+- Resale, sublicensing, or rebranding
+- Training programs sold under another name
+
+If you are unsure whether your use qualifies as commercial, **assume that it does and contact us**.
+
+---
+
+## What the Commercial License Provides
+
+Commercial licenses are **customized**, but typically include:
+
+- Legal authorization for commercial or institutional use
+- Permission to build implementations on top of HBD-Core
+- Clarity around allowed scope and exclusions
+- Alignment with HBD ethical constraints
+- Optional consultation on correct architectural use
+- Optional review of proposed implementations for ethical compliance
+
+Commercial licenses **do not** waive or weaken the ethical constraints in `ETHICS.md`.
+
+---
+
+## What Is *Not* Licensed by Default
+
+The following are **not** included under any license without explicit agreement:
+
+- Weaponized or coercive applications
+- Surveillance or covert profiling systems
+- Discriminatory screening or access control
+- Automated decision systems without human oversight
+- Removal or circumvention of ethical safeguards
+
+Some use cases may be declined at the licensor’s discretion.
+
+---
+
+## Licensing Philosophy
+
+HBD-Core is released openly because:
+
+- Diagnostic understanding should be transparent
+- Ethical constraints should be visible and canonical
+- The “good” version must exist before misuse emerges
+
+Commercial licensing exists to ensure that **implementation power is paired with responsibility**, accountability, and ethical guardrails.
+
+This is not a volume licensing model.  
+It is a **fit and alignment model**.
+
+---
+
+## Typical Licensing Structures
+
+Licenses may be structured as:
+
+- Per-product or per-platform licenses
+- Organization-wide deployment licenses
+- Professional practice licenses
+- Research-to-commercial transition licenses
+- Custom or white-label agreements
+
+Terms vary based on scope, risk profile, and alignment with ethical constraints.
+
+---
+
+## Relationship to Open Use
+
+The following remain **free and permitted** without a commercial license:
+
+- Academic research
+- Classroom instruction
+- Personal self-assessment
+- Non-profit use under the conditions in the license
+- Publication and citation with attribution
+
+Commercial licensing does **not** restrict open research or discourse.
+
+---
+
+## How to Engage
+
+To discuss commercial licensing or partnerships, please provide:
+
+1. A brief description of your intended use
+2. Whether the use is internal, customer-facing, or both
+3. Whether the application is automated, assisted, or advisory
+4. The organizational context (company, practice, institution, government)
+5. Any anticipated scale or deployment timeline
+
+Contact:
+
+**Joshua Smith**  
+Harmony By Design  
+aixl.jorsh@proton.me
+
+---
+
+## Final Note
+
+HBD-Core is infrastructure.
+
+If you are building something that meaningfully depends on it,  
+that dependence should be **intentional, licensed, and ethical**.
+
+We welcome serious builders.
