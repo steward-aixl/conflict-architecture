@@ -168,11 +168,11 @@ Each pattern is scored **0–100**.
 
 | Score | Tier | Interpretation |
 |-----|------|----------------|
-| 0–30 | Lo | Insufficient capacity |
-| 31–39 | Lo-Med | Trending toward deficiency |
-| 40–60 | Med | Appropriate capacity |
-| 61–69 | Med-Hi | Trending toward excess |
-| 70–100 | Hi | Excess capacity |
+| 0–15 | Lo | Insufficient capacity |
+| 15–20 | Lo-Med | Trending toward deficiency |
+| 20–40 | Med | Appropriate capacity |
+| 40–45 | Med-Hi | Trending toward excess |
+| 45–60 | Hi | Excess capacity |
 
 ### Virtue-Mean Mapping
 
