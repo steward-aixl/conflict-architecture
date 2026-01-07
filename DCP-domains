@@ -1,0 +1,272 @@
+# Domain 01: Destructive Conflict Patterns (DCP)
+
+**The WENI Framework**
+
+---
+
+## Overview
+
+Destructive Conflict Patterns (DCP) measure how individuals respond to conflict across four fundamental domains.
+
+These patterns are **not personality traits**.  
+They are **stress-response capacities** that activate under pressure.
+
+**Key insight:**  
+No pattern is good or bad in itself.  
+Both deficiency and excess are pathological.
+
+The goal is **contextually appropriate capacity**.
+
+---
+
+## The Four Patterns
+
+### W — Withdraw
+
+**What it measures:** Capacity to disengage from conflict
+
+| Tier | Score | Label        | Description |
+|-----|-------|--------------|-------------|
+| Lo  | 0–20  | Insufficient | Cannot disengage; pursues relentlessly; no self-regulation |
+| Med | 20–40 | Appropriate  | Takes space when needed; returns and repairs |
+| Hi  | 40–60| Excess       | Shuts down; disappears; dissociates |
+
+#### Hi Manifestations
+- Leaves room during conflict
+- Goes monosyllabic (“fine,” “whatever”)
+- Turns away physically
+- Avoids eye contact
+- Dissociates / glazes over
+- Uses sleep, work, or phone to avoid
+- Silent treatment for hours or days
+- Pretends conflict did not occur
+
+#### Lo Manifestations
+- Cannot tolerate partner’s need for space
+- Follows partner room-to-room
+- Panics when partner disengages
+- Cannot self-soothe without reassurance
+- Experiences withdrawal as abandonment
+- Escalates to prevent separation
+
+---
+
+### E — Escalate
+
+**What it measures:** Capacity to intensify or pursue in conflict
+
+| Tier | Score | Label        | Description |
+|-----|-------|--------------|-------------|
+| Lo  | 0–20  | Insufficient | Cannot advocate; suppresses; builds resentment |
+| Med | 20–40 | Appropriate  | Advocates firmly without attacking |
+| Hi  | 40–60| Excess       | Pursues, attacks, cannot de-escalate |
+
+#### Hi Manifestations
+- Raises voice / yells
+- Interrupts repeatedly
+- Brings up past grievances as weapons
+- Makes threats (“maybe we should end this”)
+- Name-calling or insults
+- Follows partner who tries to disengage
+- Door slamming, throwing objects
+- Text-bombing when partner disengages
+- Catastrophizing (“you always…”)
+
+#### Lo Manifestations
+- Avoids raising concerns
+- Agrees to end conflict while disagreeing
+- Builds silent resentment
+- Explosive delayed outbursts
+- Partner doesn’t know true position
+- “I’m fine” when not fine
+
+---
+
+### N — Negative Interpret
+
+**What it measures:** Capacity to read intent and assign meaning
+
+| Tier | Score | Label        | Description |
+|-----|-------|--------------|-------------|
+| Lo  | 0–20  | Insufficient | Over-trusts; explains away red flags |
+| Med | 20–40 | Appropriate  | Reads intent accurately; gives benefit of doubt |
+| Hi  | 40–60| Excess       | Mind-reads negatively; assumes malice |
+
+#### Hi Manifestations
+- “You did that on purpose”
+- “You always / you never…”
+- Mind-reading hostile intent
+- Connecting unrelated past grievances
+- Treating neutral affect as hostile
+- Assuming deception without evidence
+- Rejecting benign explanations
+
+#### Lo Manifestations
+- Makes excuses for harmful behavior
+- Misses or minimizes red flags
+- Remains in damaging situations
+- Others see problems first
+- Blindsided by predictable betrayal
+
+---
+
+### I — Invalidate
+
+**What it measures:** Capacity to hold boundaries against partner’s experience
+
+| Tier | Score | Label        | Description |
+|-----|-------|--------------|-------------|
+| Lo  | 0–20  | Insufficient | Over-validates; loses self |
+| Med | 20–40 | Appropriate  | Validates while holding own perspective |
+| Hi  | 40–60| Excess       | Dismisses, minimizes, corrects experience |
+
+#### Hi Manifestations
+- Eye-rolling, sighing
+- “You’re overreacting”
+- “That’s not what happened”
+- “You’re too sensitive”
+- Laughing at partner’s pain
+- Correcting partner’s memory
+- Walking away mid-sentence
+
+#### Lo Manifestations
+- Cannot hold own opinion
+- Reflexive capitulation
+- Loses preferences and agency
+- Becomes emotional chameleon
+- Burns out from over-empathizing
+- Chronic indecision
+
+---
+
+## Seek Layer
+
+Each DCP profile includes the top **2–3 Seeks** — what the nervous system is attempting to restore under threat.
+
+| Seek | What Is Being Sought | Core Question |
+|-----|----------------------|---------------|
+| Justice | Fairness, rectification | “Who crossed a line?” |
+| Status | Recognition, position | “Where do I stand?” |
+| Threat | Safety, protection | “Am I safe?” |
+| Order | Predictability, control | “How do I stabilize this?” |
+| Worth | Value, acceptance | “Am I enough?” |
+
+Seeks explain **why** a pattern fires.  
+The same observable pattern can arise from different Seeks.
+
+For neurobiological detail, see  
+[`README.md#seek-specific-activation`](../README.md#seek-specific-activation)
+
+---
+
+## Scoring
+
+### Raw Score
+Each pattern is scored **0–100**.
+
+### Tier Classification
+
+| Score | Tier | Interpretation |
+|-----|------|----------------|
+| 0–30 | Lo | Insufficient capacity |
+| 31–39 | Lo-Med | Trending toward deficiency |
+| 40–60 | Med | Appropriate capacity |
+| 61–69 | Med-Hi | Trending toward excess |
+| 70–100 | Hi | Excess capacity |
+
+### Virtue-Mean Mapping
+
+| Pattern | Deficiency | Virtue (Mean) | Excess |
+|-------|------------|---------------|--------|
+| Withdraw | Enmeshment | Regulated Space | Stonewalling |
+| Escalate | Avoidance | Appropriate Assertion | Aggression |
+| Negative Interpret | Naivety | Discernment | Paranoia |
+| Invalidate | Boundarylessness | Empathic Validation | Dismissiveness |
+
+---
+
+## Collision Topology
+
+Conflict emerges from **pairings**, not individuals.
+
+### Classic Pattern Collisions
+
+| Person A | Person B | Dynamic |
+|--------|----------|---------|
+| Hi-Escalate | Hi-Withdraw | Pursuit–Distance |
+| Hi-Escalate | Hi-Escalate | Escalation Spiral |
+| Hi-Withdraw | Hi-Withdraw | Frozen Avoidance |
+| Hi-NI | Hi-Invalidate | Contempt–Paranoia |
+| Hi-Escalate | Lo-Escalate | Bulldozer–Doormat |
+| Lo-Withdraw | Any Hi | Suffocation |
+
+### Seek Collisions
+
+| Seek A | Seek B | Dynamic |
+|------|--------|---------|
+| Justice | Worth | Prosecution–Collapse |
+| Status | Status | Dominance Contest |
+| Order | Threat | Control–Panic |
+| Worth | Worth | Mutual reassurance (stable or spiral) |
+| Justice | Justice | Competing moral frames |
+
+> Predictive heat-mapping and coefficients are proprietary.
+
+---
+
+## Relationship to Gottman
+
+DCP is **upstream** of Gottman’s Four Horsemen.
+
+| Gottman Horseman | DCP Origin |
+|------------------|------------|
+| Stonewalling | Hi-Withdraw |
+| Criticism | Hi-Negative-Interpret |
+| Contempt | Hi-Invalidate + Status Seek |
+| Defensiveness | Worth/Status Seek → Counter-Escalate |
+
+Gottman codes **behavior**.  
+DCP models **processing architecture**.
+
+---
+
+## Intervention Direction
+
+### Hi Patterns (Excess)
+Constraint, moderation, alternatives.
+
+### Lo Patterns (Insufficient)
+Capacity-building, permission, practice.
+
+*(Specific intervention protocols are proprietary.)*
+
+---
+
+## Data Schema
+
+Structural specification:  
+[`schemas/dcp-profile.json`](../schemas/dcp-profile.json)
+
+---
+
+## References
+
+- Gottman & Silver — *The Seven Principles for Making Marriage Work*
+- Gottman — *What Predicts Divorce?*
+- Johnson — *Hold Me Tight*
+- Aristotle — *Nicomachean Ethics*
+- LeDoux — *The Emotional Brain*
+- Panksepp — *Affective Neuroscience*
+
+---
+
+## Version History
+
+| Version | Date | Notes |
+|-------|------|-------|
+| 1.0 | January 2025 | Initial public release |
+
+---
+
+*“The pattern is not the person.  
+The pattern is what the person does under pressure.”*
