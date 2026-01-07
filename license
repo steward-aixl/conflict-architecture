@@ -1,0 +1,75 @@
+# HBD Community License v1.0
+
+Copyright © 2025 Josh Smith  
+Harmony By Design
+
+---
+
+## Summary
+
+This license permits free use of **HBD-Core** for research, education, and personal non-commercial purposes.
+
+**Commercial use, government use, and enterprise deployment require a separate commercial license.**
+
+The ethical constraints in `ETHICS.md` are binding on all uses of this framework.
+
+---
+
+## Definitions
+
+**“HBD-Core”**  
+The Harmony By Design diagnostic framework, including all documentation, schemas, domain specifications, and associated materials contained in this repository.
+
+**“You”**  
+The individual or entity exercising rights under this license.
+
+**“Non-Commercial Use”**  
+Use not primarily intended for or directed toward commercial advantage or monetary compensation, including:
+
+- Academic research  
+- Educational instruction  
+- Personal self-assessment  
+- Non-profit therapeutic application (subject to limitations below)  
+- Publication and citation with attribution  
+
+**“Commercial Use”**  
+Any use primarily intended for or directed toward commercial advantage or monetary compensation, including:
+
+- Incorporation into products or services offered for sale  
+- For-profit therapeutic, coaching, or consulting practice  
+- Enterprise or organizational deployment  
+- Government or military application  
+- Resale, sublicensing, or redistribution for a fee  
+
+**“Ethical Constraints”**  
+The requirements and prohibitions specified in `ETHICS.md`, incorporated into this license by reference.
+
+---
+
+## Grant of Rights
+
+### 1. Non-Commercial Use
+
+Subject to the terms of this license, You are granted a worldwide, royalty-free, non-exclusive, perpetual license to:
+
+1. **Use** — Apply the framework for research, education, or personal purposes  
+2. **Study** — Examine and learn from the framework  
+3. **Share** — Distribute copies with attribution  
+4. **Adapt** — Create derivative works for non-commercial purposes  
+
+### 2. Commercial Use
+
+All commercial use requires a separate written license agreement with the copyright holder.
+
+---
+
+## Conditions
+
+### 1. Attribution
+
+You must provide appropriate credit, include a link to this license, and indicate if changes were made.
+
+Suggested citation:
+
+Smith, Joshua.  (2026).  HBD Core: Harmony By Design DCP Framework.  https://github.com/steward-aixl/conflict-architecture
+
