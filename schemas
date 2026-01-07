@@ -1,0 +1,78 @@
+# HBD-Core Schemas
+
+This directory contains **machine-readable schemas** for the Harmony By Design (HBD) diagnostic framework.
+
+These schemas define **structure only**.
+
+They do **not** include:
+- Scoring algorithms
+- Calibration thresholds
+- Predictive weights
+- Intervention logic
+
+---
+
+## dcp-profile.json
+
+Defines the canonical structure for a **Destructive Conflict Patterns (DCP) profile**.
+
+A DCP profile captures:
+- Behavioral capacity across four conflict patterns
+- Primary nervous-system seeks under threat
+- Tier summaries for human interpretability
+- Confidence and data-quality indicators
+- Consent and context metadata
+
+---
+
+## Design Principles
+
+All HBD schemas follow these principles:
+
+1. **Structure ≠ Prediction**  
+   Schemas describe shape, not meaning or outcome.
+
+2. **Explicit Consent Surface**  
+   Fields such as `subject_aware` and `consent_documented` are mandatory signals, not afterthoughts.
+
+3. **Probabilistic Framing**  
+   Confidence is explicit; determinism is avoided.
+
+4. **Contextual Non-Portability**  
+   Profiles are context-bound and should not be reused across domains without reassessment.
+
+---
+
+## Ethical Binding
+
+All use of these schemas is governed by:
+
+- `ETHICS.md`
+- The HBD Community License
+- `DISCLAIMER.md`
+
+Removing or bypassing ethical metadata fields constitutes misuse.
+
+---
+
+## Intended Use
+
+Permitted:
+- Research
+- Education
+- Personal self-understanding
+- Non-commercial exploration
+
+Restricted:
+- Automated decision-making
+- Covert profiling
+- Discriminatory application
+- Weaponized behavioral inference
+
+---
+
+## Versioning
+
+Schemas are versioned explicitly via `schema_version`.
+
+Breaking changes will increment the major version.
